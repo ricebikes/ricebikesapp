@@ -1,3 +1,11 @@
+/**
+ * Repair stores information about a repair; name, price, description of what consitutes the repair,
+ * and if it is disabled.
+ * 
+ * Note 6/10/24:
+ * Schema is unchanged from old app.
+ */
+
 var mongoose = require('mongoose');
 
 var RepairSchema = new mongoose.Schema({
