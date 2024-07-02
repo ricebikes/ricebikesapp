@@ -1,8 +1,4 @@
 /**
- * COPIED FROM OLD APP, UPDATE
- */
-
-/**
  * Order requests are the basis for each item that will be ordered.
  * Initially they start as a request for a part, then an item is assigned to them, and they are attached to
  * an order. Once they are attached to an order, modifications to the order will update the OrderRequest.

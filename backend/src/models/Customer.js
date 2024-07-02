@@ -1,7 +1,3 @@
-/**
- * COPIED FROM OLD APP, UPDATING CURRENTLY
- */
-
 // Import the mongoose module
 const mongoose = require("mongoose");
 
