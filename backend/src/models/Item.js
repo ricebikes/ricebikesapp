@@ -1,6 +1,3 @@
-/**
- * COPIED FROM OLD APP, UPDATE
- */
 var mongoose = require('mongoose');
 
 var ItemSchema = new mongoose.Schema({
